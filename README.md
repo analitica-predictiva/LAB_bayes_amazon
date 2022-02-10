@@ -1,2 +1,3 @@
-# LAB_bayes_amazon
-Laboratorio
+# Laboratorio
+
+Análisis de sentimientos de comentarios en Amazon.
