@@ -7,10 +7,8 @@ import sys
 
 import pandas as pd
 
-import soluciones
+import preguntas
 
-# import preguntas
-preguntas = soluciones
 
 
 def test_01():
